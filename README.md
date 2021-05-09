@@ -31,3 +31,11 @@ Read more about [Step implementations in Java](http://getgauge.io/documentation/
 ```
 mvn test
 ```
+
+/* Login işlemi yapılır.
+/* Kategoriler butonuna tıklanır.
+
+/* Elektronik Kategorisi seçilir.
+/* Ürün sepete eklenir.
+/* Ürün önce bir arttırılır sonra sepetten silinir.
+/* Hesaptan çıkış yapılır.*/
