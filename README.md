@@ -31,11 +31,13 @@ Read more about [Step implementations in Java](http://getgauge.io/documentation/
 ```
 mvn test
 ```
+# Testimiz ilk versiyondur, daha sonraki versiyonlarda işlemler fonksiyon hale getirilip gauge frameworkü kullanacağım.
 
 /* Login işlemi yapılır.
 /* Kategoriler butonuna tıklanır.
-
 /* Elektronik Kategorisi seçilir.
+/* Bilgisayar Kategorisi seçilir.
+/* İlk ürün seçilir.
 /* Ürün sepete eklenir.
 /* Ürün önce bir arttırılır sonra sepetten silinir.
-/* Hesaptan çıkış yapılır.*/
+/* Hesaptan çıkış yapılır.
