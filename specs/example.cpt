@@ -1,0 +1,74 @@
+Created by testinium on 8.05.2021
+
+
+
+This is a concept file with following syntax for each concept.
+
+# Login işlemi yapılır.
+* "10" saniye  bekle
+* "id" tipinde olan "trendyol.com:id/buttonSelectGenderMan" değerindeki elemana tıkla.
+* "3" saniye  bekle
+* "id" tipinde olan "trendyol.com:id/tab_account" değerindeki elemana tıkla.
+* "3" saniye  bekle
+* "id" tipinde olan "trendyol.com:id/editTextEmail" değerindeki elemana "denemetesttest5@gmail.com" kelimesini gir.
+* "3" saniye  bekle
+* "id" tipinde olan "trendyol.com:id/editTextPassword" değerindeki elemana "denemedeneme555" kelimesini gir.
+* "3" saniye  bekle
+* "id" tipinde olan "trendyol.com:id/buttonLogin" değerindeki elemana tıkla.
+* "3" saniye  bekle
+
+# Kategoriler butonuna tıklanır.
+* "xpath" tipinde olan "//android.widget.FrameLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout" değerindeki elemana tıkla.
+* "3" saniye  bekle
+* "id" tipinde olan "trendyol.com:id/tab_search" değerindeki elemana tıkla.
+* "3" saniye  bekle
+
+# Elektronik Kategorisi seçilir.
+* "xpath" tipinde olan "//android.view.ViewGroup/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView[1]/android.widget.LinearLayout[7]" değerindeki elemana tıkla.
+* "3" saniye  bekle
+* "xpath" tipinde olan "//android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView[2]/android.widget.LinearLayout[2]/android.widget.RelativeLayout" değerindeki elemana tıkla.
+* "3" saniye  bekle
+* "xpath" tipinde olan "//android.widget.LinearLayout[3]/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[1]" değerindeki elemana tıkla.
+* "3" saniye  bekle
+
+# Ürün sepete eklenir.
+* "xpath" tipinde olan "//android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[1]" değerindeki elemana tıkla.
+* "3" saniye  bekle
+* "id" tipinde olan "trendyol.com:id/button_add_to_basket" değerindeki elemana tıkla.
+* "3" saniye  bekle
+
+# Ürün önce bir arttırılır sonra sepetten silinir.
+* "id" tipinde olan "trendyol.com:id/layoutBasketItemAmountPicker" değerindeki elemana tıkla.
+* "3" saniye  bekle
+* "xpath" tipinde olan "//android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]" değerindeki elemana tıkla.
+* "3" saniye  bekle
+* "id" tipinde olan "trendyol.com:id/imageViewDeleteProduct" değerindeki elemana tıkla.
+* "3" saniye  bekle
+
+# Hesaptan çıkış yapılır.
+* "id" tipinde olan "trendyol.com:id/textViewBasketRemoveAction" değerindeki elemana tıkla.
+* "3" saniye  bekle
+* "id" tipinde olan "trendyol.com:id/tab_account" değerindeki elemana tıkla.
+* "3" saniye  bekle
+* "xpath" tipinde olan "//androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[5]" değerindeki elemana tıkla.
+* "3" saniye  bekle
+* "xpath" tipinde olan "//androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[6]" değerindeki elemana tıkla.
+* "3" saniye  bekle
+* "xpath" tipinde olan "//android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[2]" değerindeki elemana tıkla.
+* "3" saniye  bekle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
